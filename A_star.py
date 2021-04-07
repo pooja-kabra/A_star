@@ -2,7 +2,7 @@
 """
 Created on Wed Apr  7 19:01:51 2021
 
-@author: pooja
+@author: Paras Savnani and Pooja Kabra
 """
 import time
 import pygame
